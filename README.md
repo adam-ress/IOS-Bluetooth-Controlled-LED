@@ -178,5 +178,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Contact
-- **Email**: [adam.ress@icloud.com](mailto:adam.ress@icloud.com)
+- **Email**: [aress3@gatech.edu](mailto:aress3@gatech.edu)
 
