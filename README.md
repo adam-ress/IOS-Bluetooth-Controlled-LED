@@ -1,4 +1,10 @@
-# IOS-Bluetooth-Controlled-LED Project
+# iOS Arduino Bluetooth LED Controller
+
+An open-source starter project for building iPhone apps that communicate with Arduino over Bluetooth Low Energy (BLE).
+
+Built with Swift, CoreBluetooth, and ArduinoBLE, this project demonstrates how to discover, connect to, and control an Arduino directly from an iPhone.
+
+**Use this project as a starting point for your own Bluetooth-controlled hardware, robotics, and IoT applications.**
 
 ## Overview
 The IOS-Bluetooth-Controlled-LED project is designed to help you explore and grasp the concept of using an iPhone app to control an Arduino. By creating a simple setup where an iPhone app controls an RGB LED, this project serves as an ideal starting point for understanding Bluetooth communication between iOS devices and Arduino. It provides a solid foundation for developing more complex projects and leveraging the integration of hardware and software to create innovative and interactive applications.
